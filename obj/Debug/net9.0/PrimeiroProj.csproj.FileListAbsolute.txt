@@ -1,0 +1,14 @@
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\bin\Debug\net9.0\PrimeiroProj.exe
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\bin\Debug\net9.0\PrimeiroProj.deps.json
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\bin\Debug\net9.0\PrimeiroProj.runtimeconfig.json
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\bin\Debug\net9.0\PrimeiroProj.dll
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\bin\Debug\net9.0\PrimeiroProj.pdb
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\obj\Debug\net9.0\PrimeiroProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\obj\Debug\net9.0\PrimeiroProj.AssemblyInfoInputs.cache
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\obj\Debug\net9.0\PrimeiroProj.AssemblyInfo.cs
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\obj\Debug\net9.0\PrimeiroProj.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\obj\Debug\net9.0\PrimeiroProj.dll
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\obj\Debug\net9.0\refint\PrimeiroProj.dll
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\obj\Debug\net9.0\PrimeiroProj.pdb
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\obj\Debug\net9.0\PrimeiroProj.genruntimeconfig.cache
+C:\Users\Augusto\Documents\alura\C#\PrimeiroProj\PrimeiroProj\obj\Debug\net9.0\ref\PrimeiroProj.dll
